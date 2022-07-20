@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send DELETE request to erase booking
+with invalid credentials</description>
+   <name>DLT_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6e8af2c-875a-4f60-9acd-59e535093f37</testCaseGuid>
+</TestCaseEntity>

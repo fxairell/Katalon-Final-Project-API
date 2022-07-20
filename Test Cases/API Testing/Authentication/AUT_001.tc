@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send POST request to get auth token,
+with valid credentials</description>
+   <name>AUT_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40588029-19cf-4674-ad82-e4133201acfa</testCaseGuid>
+</TestCaseEntity>

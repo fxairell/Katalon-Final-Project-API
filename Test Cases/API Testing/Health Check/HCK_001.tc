@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send GET request to ping for health check</description>
+   <name>HCK_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1ab5222-c50c-4bf1-a73b-9c1f0698b81d</testCaseGuid>
+</TestCaseEntity>

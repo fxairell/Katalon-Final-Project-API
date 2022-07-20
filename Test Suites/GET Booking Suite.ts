@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>All GET Method Suite Test Cases besides GET All Booking Suite</description>
+   <name>GET Booking Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>1a79fb2e-5f0e-450e-a6e4-ae50c9c242c1</testSuiteGuid>
+   <testCaseLink>
+      <guid>46359fa4-f83c-40b4-9bdc-2e3ec08b0ad4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_003</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>831fce5e-fc29-49e3-91e9-e7dd4e683228</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6a27bd33-c4fc-48a3-ba59-33718334a12f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_004</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d3a1839f-a547-45a8-8dac-6577c329d44a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9a320d0d-6d9a-4e7e-a147-24900bed1806</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_005</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1c7baa9c-bc8d-49e9-a578-197e5a8f4e09</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3c88958b-6143-4627-a5f8-3befe600e628</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_006</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b6f6e96f-ab18-4f0c-a5fc-bec50c81a835</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f495cc30-20f0-4381-83b6-f5e51b3931ef</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_007</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>96173894-44c0-48f8-a4e6-ff8f059895e6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3f6f9070-6bcc-4a0d-a45a-865109739aca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_008</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f0611c67-93d8-4c1a-840e-68f4048f0b62</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cb6438b9-d666-434c-bcae-3e06748f0f1a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_009</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>670bb194-4068-4141-98f0-c654d5eedce6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8c94437e-2703-4a22-a110-71387ad609d8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_010</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b25e6cd4-1f88-4a57-86de-067a5a5da0ef</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>72952bda-909d-44ed-91be-a86c248c863f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_011</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>077fb1e9-2a2b-4f4e-afc3-bb4c28f21a2a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5f0d92f3-ea8e-463c-b346-cd3834179690</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/GET Booking/GET_012</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>670e18b5-d672-4216-8290-664b37cb1cc4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

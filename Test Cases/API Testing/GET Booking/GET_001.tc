@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send GET request to get all booking IDs</description>
+   <name>GET_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63a51b07-ffcb-4e5e-8382-65b368cbd409</testCaseGuid>
+</TestCaseEntity>

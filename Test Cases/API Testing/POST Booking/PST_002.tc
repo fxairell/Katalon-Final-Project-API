@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send POST request to post booking
+without First Name</description>
+   <name>PST_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8828fab-2bf5-4644-a1d3-1c4b13501338</testCaseGuid>
+</TestCaseEntity>

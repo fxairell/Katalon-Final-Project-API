@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send GET request to get booking
+information details by booking IDs</description>
+   <name>GET_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a006056-2747-4fbc-8062-ff9699eb44ba</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1b8956e1-e9e2-4158-934d-f061a29a12c2</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Katalon Data/Restful Booker 2 (All IDs)</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1b8956e1-e9e2-4158-934d-f061a29a12c2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>bookingid</value>
+      <variableId>238b7007-98e5-4b69-946d-7596bcb8bf9e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>238b7007-98e5-4b69-946d-7596bcb8bf9e</id>
+      <masked>false</masked>
+      <name>bookingid</name>
+   </variable>
+</TestCaseEntity>

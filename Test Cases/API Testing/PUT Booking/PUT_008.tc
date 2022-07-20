@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send PUT request to update booking
+with valid credentials
+without Additional Needs</description>
+   <name>PUT_008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>599125c9-4d34-4ba4-8d12-f36755dbc15f</testCaseGuid>
+</TestCaseEntity>

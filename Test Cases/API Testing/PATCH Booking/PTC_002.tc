@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send PATCH request to edit booking
+with valid credentials
+only Last Name data</description>
+   <name>PTC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b50dd7fb-81be-4e6c-ad5c-039cfd070a16</testCaseGuid>
+</TestCaseEntity>

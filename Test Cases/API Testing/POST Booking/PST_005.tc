@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send POST request to post booking
+without Deposit Paid</description>
+   <name>PST_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50073998-5c2e-4cb4-b691-040c2a243b5d</testCaseGuid>
+</TestCaseEntity>
